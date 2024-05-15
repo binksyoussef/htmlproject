@@ -1,0 +1,143 @@
+[
+    {
+        "id": 2,
+        "name":" Fall-Winter Precollection 2023-Look 02",
+        "price": 800,
+        "image": "image/2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Fall-Winter Precollection 2023-Look 03",
+        "price": 1000,
+        "image": "image/3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Fall-Winter Precollection 2023-Look 04",
+        "price": 1200,
+        "image": "image/4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" Fall-Winter Precollection 2023-Look 05",
+        "price": 900,
+        "image": "image/5.jpeg"
+    },
+    {
+        "id": 6,
+        "name":" Fall-Winter Precollection 2023-Look 06",
+        "price": 1700,
+        "image": "image/6.jpeg"
+    },
+    {
+        "id": 7,
+        "name":" Fall-Winter Precollection 2023-Look 07",
+        "price": 2000,
+        "image": "image/7.avif"
+    },
+    {
+        "id": 8,
+        "name":" Fall-Winter Precollection 2022-Look 01",
+        "price": 1900,
+        "image": "image/8.avif"
+    },
+    {
+        "id": 9,
+        "name":" LV Skate Sneaker ",
+        "price": 800,
+        "image": "shose/h.avif"
+    },
+    {
+        "id": 10,
+        "name":" LV Trainer Sneaker",
+        "price": 1290,
+        "image": "shose/b.avif"
+    },
+    {
+        "id": 11,
+        "name":" LV Trainer Sneaker",
+        "price": 1360,
+        "image": "shose/c.avif"
+    },
+    {
+        "id": 12,
+        "name":" LV Trainer Maxi Sneaker",
+        "price": 1730,
+        "image": "shose/d.avif"
+    },
+    {
+        "id": 13,
+        "name":" Major Loafer",
+        "price": 1700,
+        "image": "shose/e.avif"
+    },
+    {
+        "id": 14,
+        "name":" LV Driver Mocassin 01",
+        "price": 2000,
+        "image": "shose/f.avif"
+    },
+    {
+        "id": 15,
+        "name":" LV Driver Mocassin 02",
+        "price": 1900,
+        "image": "shose/g.avif"
+    },
+    {
+        "id": 16,
+        "name":" LV Skate Sneaker ",
+        "price": 1900,
+        "image": "shose/k.avif"
+    },    
+    {
+        "id": 17,
+        "name":" Rolex Datejust ",
+        "price": 20000,
+        "image": "watch/W2.png"
+    },
+    {
+        "id": 18,
+        "name":" Rolex Submariner ",
+        "price": 25000,
+        "image": "watch/w1.png"
+    },
+    {
+        "id": 19,
+        "name":" Rolex GMT Master ",
+        "price": 30000,
+        "image": "watch/W3.png"
+    },
+    {
+        "id": 20,
+        "name":" Rolex atejust 02 ",
+        "price": 3300,
+        "image": "watch/W3.png"
+    },
+    {
+        "id": 21,
+        "name":" Rolex Yacht-Master ",
+        "price": 50000,
+        "image": "watch/w5.png"
+    },
+    {
+        "id": 22,
+        "name":" Rolex atejust 02 ",
+        "price": 4500,
+        "image": "watch/W3.png"
+    },
+    {
+        "id": 23,
+        "name":" Rolex arabic ",
+        "price": 3500,
+        "image": "watch/w6.png"
+    },
+    {
+        "id": 24,
+        "name":" Rolex Yacht-Master 02 ",
+        "price": 5500,
+        "image": "watch/w7.png"
+    }
+    
+
+    
+]
